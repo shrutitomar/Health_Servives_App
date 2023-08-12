@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Health First</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="register_if_new_user">Register if New User</string>
+    <string name="health_first">Health First</string>
+    <string name="Login">Login</string>
+    <string name="Password">\n</string>
+
+    <string name="register_as_new_user">Register as New User</string>
+    <string name="already_a_user">Already a User?</string>
+    <string name="sign_up">sign up</string>
+    <string name="new_username">New Username</string>
+    <string name="enter_e_mail_address">Enter E-mail Address</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="set_password">Set Password</string>
+</resources>
